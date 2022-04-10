@@ -1,0 +1,1 @@
+npx sequelize-cli model:generate --name product --attributes image:string,title:string,desc:string,price:string,qty:string
